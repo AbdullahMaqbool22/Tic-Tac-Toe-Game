@@ -50,6 +50,11 @@ We welcome contributions to this project! If you find any bugs, have suggestions
 
 This project is licensed under the ownership of Abdullah Maqbool.
 
+## Contact
+
+For any inquiries or support, please contact Abdullah at abdullahmaqbool08@gmail.com.
+
+
 Enjoy playing Tic Tac Toe! 🎉🎮
 
 ---
