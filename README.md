@@ -4,7 +4,7 @@ This is a simple command-line implementation of the classic Tic Tac Toe game in 
 
 ## How to Play
 
-1. Run the `Tic_Tac_Toe.py` script to start the game.
+1. Run the `Tic-Tac-Toe.py` script to start the game.
 2. And add two files `Grid.py` & `Toss.py` as they are further used to import functionality as module's which are used for creating grid and making toss.
 3. The game will prompt the player to enter their name and choose a symbol (either 'X' or 'O').
 4. A toss will decide which player goes first - the player or the computer.
@@ -29,10 +29,10 @@ This is a simple command-line implementation of the classic Tic Tac Toe game in 
 2. Open the terminal or command prompt and navigate to the folder containing the downloaded files.
 3. Run the following command to start the game:
    ```
-   python tic_tac_toe.py
+   python Tic-Tac-Toe.py
    ```
 ## Content
-- `Tic_Tac_Toe.py` (The actual game this file will be runned).
+- `Tic-Tac-Toe.py` (The actual game this file will be runned).
 - `Grid.py` (Module used to import grid which will be further printed).
 - `Toss.py` (Module used to import toss making so first move can be decided between (Computer & User)).
 - Note:
