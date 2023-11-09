@@ -48,7 +48,7 @@ We welcome contributions to this project! If you find any bugs, have suggestions
 
 ## License
 
-This project is licensed under the ownership of Abdullah Maqbool.
+This project is licensed by MIT license.
 
 ## Contact
 
